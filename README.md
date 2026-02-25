@@ -18,7 +18,7 @@ A modern, high-tech single-page personal website built with a focus on premium a
 
 ## 📂 Project Structure
 - `index.html`: The main website file (HTML/CSS/JS).
-- `summary.md`: This project overview.
+- `README.md`: This project overview.
 
 ## 📡 Deployment & Git
 - **Repository**: [0225DRL_DIC1](https://github.com/Hachi282/0225DRL_DIC1.git)
