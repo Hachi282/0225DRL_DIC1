@@ -2,6 +2,11 @@
 
 A modern, high-tech single-page personal website built with a focus on premium aesthetics and live functionality.
 
+## 🔗 Live Demo
+[View Live Website](https://hachi282.github.io/0225DRL_DIC1/)
+
+![Website Preview](page.png)
+
 ## 🚀 Core Features
 - **Dynamic Name Styling**: "YU JOU HSIN" displayed with a purple gradient shimmer effect.
 - **Real-Time Data**: Live digital clock (HH:MM:SS) and full date display updating every second.
